@@ -1,1 +1,1 @@
-# ECG-analysis
+# ECG Analysis Assignment

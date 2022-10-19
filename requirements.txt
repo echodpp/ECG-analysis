@@ -1,0 +1,7 @@
+sphinx
+pytest
+pytest-pycodestyle
+heartpy
+pandas
+matplotlib
+py-ecg-detectors
